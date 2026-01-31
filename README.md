@@ -210,14 +210,3 @@ Academic evaluation requirements
 The Hotel Management System successfully demonstrates the practical application of software engineering principles, MVC architecture, and design patterns in a real-world inspired system.
 The project meets all academic requirements and serves as a strong foundation for scalable and maintainable Java applications.
 
-If you want, I can:
-
-Make it shorter for GitHub
-
-Add screenshots section
-
-Add login credentials for testing
-
-Or align it exactly with your teacher’s rubric
-
-Just tell me 😄

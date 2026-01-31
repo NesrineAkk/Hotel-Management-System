@@ -1,0 +1,239 @@
+[
+  {
+    "id": 1,
+    "number": 101,
+    "type": "single",
+    "price": 8000,
+    "features": [
+      "wifi",
+      "kitchen",
+      "sea view"
+    ],
+    "state": "occupied"
+  },
+  {
+    "id": 2,
+    "number": 102,
+    "type": "double",
+    "price": 6000,
+    "features": [
+      "wifi",
+      "air conditioning",
+      "telephone"
+    ],
+    "state": "available"
+  },
+  {
+    "id": 3,
+    "number": 201,
+    "type": "triple",
+    "price": 7500,
+    "features": [
+      "wifi",
+      "jacuzzi",
+      "sea view",
+      "kitchen"
+    ],
+    "state": "available"
+  },
+  {
+    "id": 4,
+    "number": 202,
+    "type": "double",
+    "price": 5500,
+    "features": [
+      "wifi",
+      "air conditioning"
+    ],
+    "state": "available"
+  },
+  {
+    "id": 5,
+    "number": 301,
+    "type": "single",
+    "price": 3500,
+    "features": [
+      "wifi",
+      "telephone"
+    ],
+    "state": "occupied"
+  },
+  {
+    "id": 6,
+    "number": 401,
+    "type": "suite",
+    "price": 12000,
+    "features": [
+      "wifi",
+      "balcony",
+      "mini-bar"
+    ],
+    "state": "occupied"
+  },
+  {
+    "id": 7,
+    "number": 2005,
+    "type": "single",
+    "price": 12000,
+    "features": [
+      "wifi",
+      "balcony",
+      "mini-bar"
+    ],
+    "state": "occupied"
+  },
+  {
+    "id": 8,
+    "number": 500,
+    "type": "double",
+    "price": 7000,
+    "features": [
+      "wifi",
+      "balcony"
+    ],
+    "state": "available"
+  },
+  {
+    "id": 9,
+    "number": 402,
+    "type": "suite",
+    "price": 15000,
+    "features": [
+      "wifi",
+      "jacuzzi",
+      "sea view",
+      "mini-bar"
+    ],
+    "state": "occupied"
+  },
+  {
+    "id": 10,
+    "number": 403,
+    "type": "suite",
+    "price": 14000,
+    "features": [
+      "wifi",
+      "balcony",
+      "air conditioning"
+    ],
+    "state": "available"
+  },
+  {
+    "id": 11,
+    "number": 204,
+    "type": "double",
+    "price": 4800,
+    "features": [
+      "wifi",
+      "telephone"
+    ],
+    "state": "available"
+  },
+  {
+    "id": 12,
+    "number": 205,
+    "type": "double",
+    "price": 5200,
+    "features": [
+      "wifi",
+      "air conditioning",
+      "balcony"
+    ],
+    "state": "available"
+  },
+  {
+    "id": 13,
+    "number": 302,
+    "type": "single",
+    "price": 4000,
+    "features": [
+      "wifi",
+      "kitchen"
+    ],
+    "state": "available"
+  },
+  {
+    "id": 14,
+    "number": 303,
+    "type": "single",
+    "price": 4500,
+    "features": [
+      "wifi",
+      "telephone",
+      "balcony"
+    ],
+    "state": "available"
+  },
+  {
+    "id": 15,
+    "number": 304,
+    "type": "single",
+    "price": 5000,
+    "features": [
+      "wifi",
+      "mini-bar"
+    ],
+    "state": "available"
+  },
+  {
+    "id": 16,
+    "number": 206,
+    "type": "triple",
+    "price": 8000,
+    "features": [
+      "wifi",
+      "kitchen",
+      "balcony"
+    ],
+    "state": "available"
+  },
+  {
+    "id": 17,
+    "number": 207,
+    "type": "triple",
+    "price": 8500,
+    "features": [
+      "wifi",
+      "sea view",
+      "air conditioning"
+    ],
+    "state": "available"
+  },
+  {
+    "id": 18,
+    "number": 208,
+    "type": "triple",
+    "price": 9000,
+    "features": [
+      "wifi",
+      "jacuzzi",
+      "telephone"
+    ],
+    "state": "available"
+  },
+  {
+    "id": 19,
+    "number": 501,
+    "type": "suite",
+    "price": 16000,
+    "features": [
+      "wifi",
+      "sea view",
+      "jacuzzi",
+      "balcony"
+    ],
+    "state": "occupied"
+  },
+  {
+    "id": 20,
+    "number": 502,
+    "type": "suite",
+    "price": 17000,
+    "features": [
+      "wifi",
+      "mini-bar",
+      "air conditioning"
+    ],
+    "state": "available"
+  }
+]

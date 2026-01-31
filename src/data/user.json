@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ff2c19b6-5ace-4092-b9e4-2118e1610125",
+    "lastName": "nsrn",
+    "firstName": "nsrn",
+    "email": "nesrine@gmail.com",
+    "password": "1234",
+    "phone": "0987654321",
+    "role": "ADMIN"
+  },
+  {
+    "id": "c57a84a5-14d1-48b7-9e86-2fe029385c71",
+    "lastName": "Tebani",
+    "firstName": "Hiba",
+    "email": "hiba@gmail.com",
+    "password": "asdf",
+    "phone": "0560345678",
+    "role": "USER"
+  }
+]

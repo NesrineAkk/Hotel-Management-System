@@ -1,0 +1,15 @@
+[
+  {
+    "id": "c414ce3d-56a9-4ba9-a05a-1e5bf0597c18",
+    "email": "lina@gmail.com"
+  },
+  {
+    "id": "d1683d7b-8a71-4301-9fe8-313ab361ef98",
+    "lastName": "lina",
+    "firstName": "delhoum",
+    "email": "lina@gmail",
+    "password": "1234",
+    "phone": "00000",
+    "role": "USER"
+  }
+]

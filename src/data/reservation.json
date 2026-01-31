@@ -1,0 +1,35 @@
+[
+  {
+    "reservationId": "RES-3E8660A2",
+    "userId": "8e4a5a81-ded4-46ee-90c7-0bd3f10b355a",
+    "roomId": "6",
+    "checkInDate": "2025-12-27",
+    "checkOutDate": "2026-01-05",
+    "numberOfNights": 9,
+    "totalPrice": 108000.0,
+    "status": "active",
+    "createdAt": "2025-12-25"
+  },
+  {
+    "reservationId": "RES-898E1468",
+    "userId": "1c6cb275-59c5-47a6-bdaf-d3aa6ba197d3",
+    "roomId": "19",
+    "checkInDate": "2025-12-26",
+    "checkOutDate": "2026-01-01",
+    "numberOfNights": 6,
+    "totalPrice": 96000.0,
+    "status": "active",
+    "createdAt": "2025-12-25"
+  },
+  {
+    "reservationId": "RES-99DCF04D",
+    "userId": "1c6cb275-59c5-47a6-bdaf-d3aa6ba197d3",
+    "roomId": "7",
+    "checkInDate": "2025-12-26",
+    "checkOutDate": "2025-12-29",
+    "numberOfNights": 3,
+    "totalPrice": 36000.0,
+    "status": "active",
+    "createdAt": "2025-12-25"
+  }
+]
